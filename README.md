@@ -23,6 +23,8 @@ I also have completed some formal education in:
   - C++
   - Java
 
+but I'm a little rusty - haven't really needed to touch them since leaving college.
+
 ## Other Useful Skills
 
   - Debugging: Whether it's just looking through the code for mistakes, or poring over a disassembled binary, I seem to have a knack for quickly figuring out what's going on and how to fix it.
