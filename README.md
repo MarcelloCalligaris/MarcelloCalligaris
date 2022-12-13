@@ -23,7 +23,7 @@ I also have completed some formal education in:
   - C++
   - Java
 
-but I'm a little rusty - haven't really needed to touch them since leaving college.
+but I'm a little rusty - haven't really needed to touch them since graduation.
 
 ## Other Useful Skills
 
