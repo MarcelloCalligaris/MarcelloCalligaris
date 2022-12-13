@@ -1,6 +1,6 @@
 ## About
 
-- 👋 Hi, I’m @MarcelloCalligaris from Kingston, ON
+- 👋 Hi, I’m Marcello Calligaris from Kingston, ON
 - 👀 I’m interested in retrocomputing, home automation, mapping/GIS, and well, just about anything that has power running through it.
 - 🌱 I’m currently learning how to develop applications leveraging Asterisk PBX Software.
 - 📫 You can reach me at rmlegmvqv@mozmail.com
